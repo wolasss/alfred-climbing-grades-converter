@@ -10,6 +10,8 @@
 $ npm install --global alfred-climbing-grades-converter
 ```
 
+or download it from [here](https://raw.githubusercontent.com/wolasss/alfred-climbing-grades-converter/master/bin/climbing-grades-converter.alfredworkflow)
+
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 
