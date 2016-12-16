@@ -15,7 +15,16 @@ $ npm install --global alfred-climbing-grades-converter
 
 ## Usage
 
-In Alfred, type `climb` followed by your grade you want to convert.
+In Alfred, type `climb` followed by your grade you want to convert. It supports following grading systems: 
+
+* French
+* YDS
+* Kurtyki (Polish)
+* UIAA
+* British
+* Australian
+* Fontainebleau
+* Hueco
 
 ## License
 
