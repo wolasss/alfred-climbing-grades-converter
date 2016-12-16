@@ -30,4 +30,4 @@ In Alfred, type `climb` followed by your grade you want to convert. It supports 
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Adam Wolski](https://adamwolski.com)
