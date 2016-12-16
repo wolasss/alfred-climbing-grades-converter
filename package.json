@@ -4,7 +4,7 @@
   "description": "Climbing grades converter as an alfred workflow.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup"
   },
