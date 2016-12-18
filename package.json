@@ -1,6 +1,6 @@
 {
   "name": "alfred-climbing-grades-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Climbing grades converter as an alfred workflow.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wolasss/alfred-climbing-grades-converter"
+    "url": "https://github.com/wolasss/alfred-meteor-docs"
   },
   "license": "MIT",
   "dependencies": {
