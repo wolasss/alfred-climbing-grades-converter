@@ -86,7 +86,7 @@
 			<dict>
 				<key>applescript</key>
 				<string>on alfred_script(q)
-  tell application "Alfred 3" to search q
+  tell application "Alfred 5" to search q
 end alfred_script</string>
 				<key>cachescript</key>
 				<false/>
@@ -103,6 +103,12 @@ end alfred_script</string>
 			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
@@ -139,7 +145,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>0FD601CC-61EB-48C6-9A90-FAB5A74D6F35</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -165,12 +171,14 @@ end alfred_script</string>
 			<dict>
 				<key>browser</key>
 				<string></string>
+				<key>skipqueryencode</key>
+				<false/>
+				<key>skipvarencode</key>
+				<false/>
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
 				<string>https://en.wikipedia.org/wiki/Grade_(climbing)#Comparison_tables</string>
-				<key>utf8</key>
-				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
@@ -214,46 +222,52 @@ end alfred_script</string>
 		<key>06837EE9-A430-4E42-A4BF-9D0A4D167120</key>
 		<dict>
 			<key>xpos</key>
-			<integer>210</integer>
+			<real>210</real>
 			<key>ypos</key>
-			<integer>190</integer>
+			<real>190</real>
 		</dict>
 		<key>0FD601CC-61EB-48C6-9A90-FAB5A74D6F35</key>
 		<dict>
 			<key>xpos</key>
-			<integer>30</integer>
+			<real>30</real>
 			<key>ypos</key>
-			<integer>50</integer>
+			<real>50</real>
 		</dict>
 		<key>2011992F-00D0-4B43-BA36-2532943433CC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<real>300</real>
 			<key>ypos</key>
-			<integer>20</integer>
+			<real>20</real>
 		</dict>
 		<key>5D6472BE-6D49-4EB0-AD8D-7F5BD8B4B85A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>210</integer>
+			<real>210</real>
 			<key>ypos</key>
-			<integer>70</integer>
+			<real>70</real>
 		</dict>
 		<key>E915EC91-6F5C-4493-9D29-941C04E952F3</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<real>450</real>
 			<key>ypos</key>
-			<integer>190</integer>
+			<real>190</real>
 		</dict>
 		<key>FB5DDF7F-7C5A-4A5C-A571-D9B1BE69C77D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<real>300</real>
 			<key>ypos</key>
-			<integer>160</integer>
+			<real>160</real>
 		</dict>
 	</dict>
+	<key>userconfigurationconfig</key>
+	<array/>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.3</string>
 	<key>webaddress</key>
 	<string>http://adamwolski.com</string>
 </dict>

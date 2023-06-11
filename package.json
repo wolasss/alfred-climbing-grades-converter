@@ -1,8 +1,9 @@
 {
   "name": "alfred-climbing-grades-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Climbing grades converter as an alfred workflow.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "test",
     "postinstall": "alfy-init",
@@ -19,8 +20,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "alfy": "^0.6.0",
+    "alfy": "1.1.0",
     "climbing-grade": "git+https://github.com/wolasss/climbing-grade.js.git",
-    "climbing-grade-recognizer": "^0.9.0"
+    "climbing-grade-recognizer": "0.9.0"
   }
 }

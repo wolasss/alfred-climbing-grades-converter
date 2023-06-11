@@ -1,6 +1,7 @@
-const alfy = require('alfy');
-const Recognizer = require('climbing-grade-recognizer');
-const ClimbingGrade = require('climbing-grade');
+import alfy from 'alfy'; 
+import Recognizer from 'climbing-grade-recognizer';
+import ClimbingGrade from 'climbing-grade';
+
 const sportFormats = ['kurtyki', 'french', 'uiaa', 'yds', 'australian', 'british'];
 const boulderFormats = ['font', 'hueco'];
 

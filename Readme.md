@@ -1,6 +1,6 @@
 # alfred-climbing-grades-converter
 
-> [Alfred 3](https://www.alfredapp.com) workflow to convert climbing grades in different systems.
+> [Alfred 5](https://www.alfredapp.com) workflow to convert climbing grades in different systems.
 
 <img src="https://raw.githubusercontent.com/wolasss/alfred-climbing-grades-converter/master/climbing-grade-converter.gif">
 
@@ -12,7 +12,7 @@ $ npm install --global alfred-climbing-grades-converter
 
 or download it from [here](https://raw.githubusercontent.com/wolasss/alfred-climbing-grades-converter/master/bin/climbing-grades-converter.alfredworkflow)
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 [Powerpack](https://www.alfredapp.com/powerpack/).*
+*Requires [Node.js](https://nodejs.org) 14+ and the Alfred 5+ [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 
 ## Usage
