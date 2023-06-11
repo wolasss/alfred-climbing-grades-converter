@@ -1,6 +1,6 @@
 {
   "name": "alfred-climbing-grades-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Climbing grades converter as an alfred workflow.",
   "main": "index.js",
   "type": "module",
